@@ -1,2 +1,2 @@
 def index(request):
-	return 'ok'
+return 'ok'
